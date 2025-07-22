@@ -34,10 +34,23 @@ MyApplication 2/
 - Base URL: ## 🔗 API Used
 
 - `https://nit3213api.onrender.com/` — Used for authentication and fetching course data
+
   
+- ## 🧰 Technologies Used
+
+- **Language:** Kotlin
+- **HTTP Client:** Retrofit
+- **UI Components:** RecyclerView, EditText, Button
+- **IDE:** Android Studio (Giraffe or Hedgehog)
+- **Gradle Version:** 8.5
+- **Android Gradle Plugin:** 8.1.1
+
+---
+
 ## Submission Details
 
 - Student: **Ramandeep Kaur**
 - ID: *(s8066830)*
 - Subject: **NIT3213 Android Application Development**
+- **GitHub Profile:**  [@Ramandeep938] https://github.com/Ramandeep938/NIT3213-Final-Assignment.git
 
