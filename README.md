@@ -9,6 +9,20 @@ This is the final Android Studio application project for NIT3213.
 - 📄 Details screen for selected course
 - ✅ Proper UI with navigation and error handling
 
+## 📁 Project Structure
+
+MyApplication 2/
+├── app/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/
+│ │ │ │ └── your_package/
+│ │ │ ├── res/
+│ │ │ └── AndroidManifest.xml
+│ └── build.gradle
+├── build.gradle
+└── settings.gradle
+
 ## How to Run
 
 1. Open the project in Android Studio
@@ -17,11 +31,13 @@ This is the final Android Studio application project for NIT3213.
 
 ## API Endpoint
 
-- Base URL: `https://nit3213api.onrender.com/`
+- Base URL: ## 🔗 API Used
 
+- `https://nit3213api.onrender.com/` — Used for authentication and fetching course data
+  
 ## Submission Details
 
 - Student: **Ramandeep Kaur**
-- ID: *(add your student ID here)*
+- ID: *(s8066830)*
 - Subject: **NIT3213 Android Application Development**
 
